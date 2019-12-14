@@ -1,4 +1,3 @@
-boys = ["cole","austy","divy"]
-nah = boys.pop
-
-puts boys.include? "robby"
+puts "Enter your name: "
+name = gets
+puts "Hello, " + name
